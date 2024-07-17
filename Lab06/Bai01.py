@@ -1,6 +1,3 @@
-#Họ Tên : Trần Thị Diễm Quyên
-#MSSV   : 2100006971
-
 import tkinter as tk
 
 class FrameRecorderApp:
